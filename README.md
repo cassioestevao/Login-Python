@@ -4,7 +4,7 @@
 
 # Tela de Login em Python
 
-Este é um simples exemplo de uma tela de login criada em Python usando a biblioteca Tkinter.
+Este é um simples exemplo de uma tela de login criada em Python usando a biblioteca customtkinter.
 
 ## Funcionalidades
 
